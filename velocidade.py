@@ -1,0 +1,1 @@
+print("Para calcular a velocidade e a distancia informe-os ")

@@ -1,0 +1,50 @@
+Lista de Exercícios 4: Introdução a Loops
+
+
+Questão 1
+
+    Quando crianças aprendemos as tabuadas dos números 2, 3, 4, assim em diante. Vamos criar a tabuada do número que quisermos. O usuário deve informar o número que ele deseja a tabuada e você deve imprimir a tabuada tal como abaixo:
+
+        Número da tabula: 5
+            Tabuada de 5:
+            5 X 1 = 5
+            5 X 2 = 10
+            ...
+            5 X 10 = 50
+
+
+Questão 2
+
+    Em um supermercado é comum que no caixa os produtos sejam passados até que finalize-se a compra. Você deve fazer um programa que leia os preços dos produtos, até que o preço zero seja informado. O total da compra deve ser informado no final. Você deve, basicamente, somar todos os preços informados. 
+
+
+Questão 3
+________________________________________________________
+
+
+
+
+A professora Alice precisa calcular a média das notas dos seus alunos. Os alunos possuem quatro notas bimestrais. A média final do aluno é a média aritmética das notas. Calcule e imprima a média de um aluno. 
+
+
+
+Questão 4
+________________________________________________________
+
+
+
+
+O zoom é uma plataforma de busca dos preços mais baixos da web para um mesmo produto. Ele além de mostrar o menor valor encontrado, apresenta também o preço médio do produto nos últimos trinta dias. Para encontrar o menor preço, o programa lê 6 preços durante o mês e encontra o menor deles. Você deve encontrar o menor preço do produto durante o mês. 
+
+
+
+Questão 5
+________________________________________________________
+
+
+
+
+
+As temperaturas no verão estão sendo cada vez mais quentes, assim como algumas regiões estão tendo invernos mais rigorosos. Devido a isso, alertas de emergências devem ser divulgados com antecedência. Você deve fazer um programa que leia as temperaturas máximas e mínimas durante uma semana. Você deve apresentar a mínima e a máxima da semana. 
+
+

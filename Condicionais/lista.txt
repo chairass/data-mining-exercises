@@ -2,7 +2,7 @@ Lista de Exercícios 3: Introdução à Condicionais
 
 
 Questão 1
-__________________________________________________
+    ____________________________________________
     Dessa vez, lhe iludiram e disseram que iam pagar para você fazer um programa, mas no fundo você sabe que não vai receber. Você foi contratado para criar um programa de promoção do dia do consumidor. Basicamente, você vai ler o total da compra de um consumidor e aplicar o desconto conforme abaixo:
 
         total compra	desconto
@@ -16,39 +16,21 @@ __________________________________________________
 
 
 Questão 2
-__________________________________________________
-
-Você agora quer fazer um programa apenas para exercitar a sua lógica. Basicamente, você viu que o IBGE faz uma consulta de 5 preços para ver a média de preços. Você resolveu fazer o seguinte: ler os valores, calcular a média e verificar quais valores estão acima da média. 
+    ____________________________________________
+    Você agora quer fazer um programa apenas para exercitar a sua lógica. Basicamente, você viu que o IBGE faz uma consulta de 5 preços para ver a média de preços. Você resolveu fazer o seguinte: ler os valores, calcular a média e verificar quais valores estão acima da média. 
 
 
 Questão 3
-________________________________________________________
-
-
-
-
-
-
-Em um jogo de tabuleiro, um jogador pode movimentar uma peça apenas se o número do seu dado for maior que o do seu adversário. Faça um programa que informe se o jogador pode ou não jogar aquela partida. Leia o número do dado do jogador e do seu adversário e informe quem deve jogar. No caso de empate, nenhum dos jogadores joga. 
+    ____________________________________________
+    Em um jogo de tabuleiro, um jogador pode movimentar uma peça apenas se o número do seu dado for maior que o do seu adversário. Faça um programa que informe se o jogador pode ou não jogar aquela partida. Leia o número do dado do jogador e do seu adversário e informe quem deve jogar. No caso de empate, nenhum dos jogadores joga. 
 
 
 Questão 4
-________________________________________________________
-
-
-
-
-
-Um baralho contém 52 cartas de 4 tipos (naipes) diferentes: paus, espadas, copas e ouro. Em cada naipe, que consiste de 13 cartas, 3 dessas cartas contêm as figuras do rei, da dama e do valete, respectivamente. Faça um programa que leia um número de 1 a 13 e informe qual carta o número representa por extenso. Lembrando que temos algumas cartas especiais: 1 (Ás), 11 (Valete), 12 (Rainha), 13 (Rei). 
+    __________________________________________
+    Um baralho contém 52 cartas de 4 tipos (naipes) diferentes: paus, espadas, copas e ouro. Em cada naipe, que consiste de 13 cartas, 3 dessas cartas contêm as figuras do rei, da dama e do valete, respectivamente. Faça um programa que leia um número de 1 a 13 e informe qual carta o número representa por extenso. Lembrando que temos algumas cartas especiais: 1 (Ás), 11 (Valete), 12 (Rainha), 13 (Rei). 
 
 
 Questão 5
-________________________________________________________
-
-
-
-
-
-
-A minha sobrinha está aprendendo as letras do alfabeto. Ela ainda confunde o que é vogal e consoante. Você topou fazer comigo um programa que verifica se uma letra é vogal ou consoante. Então, é isso, né? Vamos lá? 
+    ____________________________________________
+    A minha sobrinha está aprendendo as letras do alfabeto. Ela ainda confunde o que é vogal e consoante. Você topou fazer comigo um programa que verifica se uma letra é vogal ou consoante. Então, é isso, né? Vamos lá? 
 
